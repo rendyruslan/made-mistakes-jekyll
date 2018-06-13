@@ -9,7 +9,7 @@ teaser                   : "/assets/images/default-teaser.png"
 locale                   : "en_US"
 words_per_minute         : 200
 
-repository               : "mmistakes/made-mistakes-jekyll"
+repository               : "rendyruslan/made-mistakes-jekyll"
 url                      : "https://mademistakes.com"
 
 social:
